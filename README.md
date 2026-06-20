@@ -14,19 +14,21 @@
 - ⚡ Fun fact: **I can turn caffeine into code and algorithms into solutions, all while keeping the bugs at bay!**
 - <p align="left">
   ⚡Follow this link to visit my portfolio: 
-  <a href="https://wondrous-piroshki-90059c.netlify.app/" target="_blank">Ashutosh Tripathi - Portfolio</a>
+  <a href="[https://wondrous-piroshki-90059c.netlify.app/](https://github.com/jaiswal-sonal/My-Portfolio.git)" target="_blank">Sonal Jaiswal - Portfolio</a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/ashutosh-web-developer/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://github.com/Tripathi-Ashu" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
+  <a href="[https://www.linkedin.com/in/ashutosh-web-developer/](https://www.linkedin.com/in/sonal-jaiswal-121565302)" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://github.com/jaiswal-sonal" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+</a>
 </p>
 
 <div align="center">
   <b>GSSOC(24) Badges 🪶</b><br><br>
   <div style="display: flex; align-items: center; gap: 10px;" align="center">
-    <a href="https://gssoc.girlscript.tech/leaderboard">
+    <a href="https://gssoc.girlscript.tech/leaderboard?search=jaiswal-sonal">
       <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" alt="GSSoC Postman White Badge" />
       <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" alt="GSSoC Postman Badge 1" />
       <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" alt="GSSoC Postman Badge 2" />
