@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | B.Tech CSE  | Passionate about creating innovative and user-friendly web applications.</h3>
 
 <p align="left">
-   <img src="https://komarev.com/ghpvc/?username=jaiswal-sonal&label=Profile%20views&color=0e75b6&style=flat" alt="Sonal Jaiswal" />
+  <img src="https://komarev.com/ghpvc/?username=jaiswal-sonal&label=Profile%20views&color=0e75b6&style=flat" alt="Sonal Jaiswal" />
 </p>
 
 <img align="right" width="420" src="https://www.geeky-gadgets.com/wp-content/uploads/2024/02/How-to-use-GitHub-Copilot-AI-coding-assistant.webp" alt="GitHub Copilot">
