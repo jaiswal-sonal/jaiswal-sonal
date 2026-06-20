@@ -14,7 +14,7 @@
 - ⚡ Fun fact: **I can turn caffeine into code and algorithms into solutions, all while keeping the bugs at bay!**
 - <p align="left">
   ⚡Follow this link to visit my portfolio: 
-  <a href="[https://wondrous-piroshki-90059c.netlify.app/](https://github.com/jaiswal-sonal/My-Portfolio.git)" target="_blank">Sonal Jaiswal - Portfolio</a>
+  <a href="[https://wondrous-piroshki-90059c.netlify.app/](https://github.com/jaiswal-sonal/My-Portfolio.git)" target="_blank"></a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
